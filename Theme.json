@@ -1,9 +1,9 @@
 {
-    "name": "PurpAMOLED",
-    "description": "AMOLED version of PurpDark",
+    "name": "VeeOLED",
+    "description": "Vee's OLED Theme",
     "authors": [
         {
-            "name": "@vorlie",
+            "name": "@jingledrawss",
             "id": "614807913302851594"
         }
     ],
@@ -99,21 +99,21 @@
         "PRIMARY_100": "#FFFFFF",
         "PRIMARY_200": "#FFFFFF",
         "PRIMARY_300": "#FFFFFF",
-        "PRIMARY_360": "#A571B7",
-        "PRIMARY_400": "#A571B7",
-        "PRIMARY_500": "#A571B7",
+        "PRIMARY_360": "#7197b7",
+        "PRIMARY_400": "#7197b7",
+        "PRIMARY_500": "#7197b7",
         "PRIMARY_600": "#000000",
         "PRIMARY_630": "#000000",
         "PRIMARY_660": "#000000",
         "PRIMARY_700": "#000000",
         "PRIMARY_800": "#000000",
 
-        "BRAND_260": "#7F08A8",
-        "BRAND_360": "#7F08A8",
-        "BRAND_500": "#7F08A8",
-        "BRAND_560": "#F0C4FF",
-        "WHITE_500": "#F0C4FF",
-        "YELLOW_300": "#B569E0",
+        "BRAND_260": "#087da8",
+        "BRAND_360": "#087da8",
+        "BRAND_500": "#087da8",
+        "BRAND_560": "#c4f4ff",
+        "WHITE_500": "#c4f4ff",
+        "YELLOW_300": "#69c0e0",
         "GREEN_360": "#B569E0",
         "RED_400": "#FC0E61"
     },
